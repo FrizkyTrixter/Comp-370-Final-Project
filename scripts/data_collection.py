@@ -2,12 +2,10 @@ import pandas as pd
 import json
 import requests
 
-# API configuration
 url = "https://newsapi.org/v2/everything"   
-api_key = "289f559c39554752a8e128c907c36d9f"  
+api_key = "whatever-your-api-key-is"  
 
 def fetch(params):
-    """Fetch articles from NewsAPI with specified parameters."""
     response = requests.get(url, params=params)
     if response.status_code == 200:
         return response.json()
@@ -16,14 +14,14 @@ def fetch(params):
         return None
 
 def save(data, filename):
-    """Save data to a JSON file."""
     with open(filename, "w") as f:
         json.dump(data, f)
+
+
 
 import time
 
 def get_articles(query, max_results=500):
-    """Retrieve up to 500 articles for a specific query with pagination."""
     articles = []
     page = 1
 
@@ -50,8 +48,9 @@ def get_articles(query, max_results=500):
     return articles[:max_results]
 
 
+
+
 def save_to_tsv(data, filename):
-    """Save articles data to a TSV file."""
     df = pd.DataFrame([{
         "title": article["title"],
         "description": article["description"],
