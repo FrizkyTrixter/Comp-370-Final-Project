@@ -6,7 +6,7 @@ import json
 import requests
 
 url = "https://newsapi.org/v2/everything"   
-api_key = "abfac87b7abe49cc83c20d4901e739a8"  
+api_key = "api_key"  
 
 def fetch(params):
     response = requests.get(url, params=params)
