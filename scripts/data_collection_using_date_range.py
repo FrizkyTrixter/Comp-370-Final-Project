@@ -63,9 +63,6 @@ def get_articles(query, from_param, to):
     return articles
 
 
-
-
-
 def save_to_tsv(articles, filename):
     try:
         # If the file exists, read existing data to get the URLs of already saved articles
