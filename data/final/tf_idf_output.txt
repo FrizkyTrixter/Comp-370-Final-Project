@@ -1,0 +1,182 @@
+Category: Candidate 
+Top 10 words:
+evangelical (TF-IDF Score: 21.7115)
+pastor (TF-IDF Score: 10.8558)
+conservative (TF-IDF Score: 8.8941)
+vote (TF-IDF Score: 6.8709)
+character (TF-IDF Score: 5.8333)
+competence (TF-IDF Score: 5.8333)
+habitually (TF-IDF Score: 5.8333)
+commonly (TF-IDF Score: 5.8333)
+circles (TF-IDF Score: 5.8333)
+pastors (TF-IDF Score: 5.8333)
+
+Category: Candidate Endorsements & Influencers
+Top 10 words:
+elon (TF-IDF Score: 145.3015)
+musk (TF-IDF Score: 144.1511)
+rogan (TF-IDF Score: 101.8114)
+joe (TF-IDF Score: 81.5748)
+billionaire (TF-IDF Score: 58.4027)
+cuban (TF-IDF Score: 51.9512)
+podcast (TF-IDF Score: 47.2696)
+mark (TF-IDF Score: 45.0469)
+star (TF-IDF Score: 45.0469)
+voters (TF-IDF Score: 42.7950)
+
+Category: Miscellaneous Campaign Events & Anecdotes
+Top 10 words:
+biden (TF-IDF Score: 87.2278)
+joe (TF-IDF Score: 59.0714)
+president (TF-IDF Score: 56.4781)
+mcdonalds (TF-IDF Score: 53.6718)
+steelers (TF-IDF Score: 47.3474)
+rally (TF-IDF Score: 46.7368)
+nominee (TF-IDF Score: 40.6920)
+white (TF-IDF Score: 40.2486)
+garden (TF-IDF Score: 40.1813)
+madison (TF-IDF Score: 39.6914)
+
+Category: Personal & Character Assessments
+Top 10 words:
+hitler (TF-IDF Score: 49.1706)
+kelly (TF-IDF Score: 35.5764)
+mcconnell (TF-IDF Score: 34.4194)
+john (TF-IDF Score: 32.3327)
+president (TF-IDF Score: 32.2732)
+threat (TF-IDF Score: 32.0641)
+cheney (TF-IDF Score: 31.1294)
+called (TF-IDF Score: 30.9191)
+harris (TF-IDF Score: 29.4546)
+comments (TF-IDF Score: 29.0759)
+
+Category: Media & Public Opinion Analysis
+Top 10 words:
+news (TF-IDF Score: 71.5707)
+fox (TF-IDF Score: 70.5365)
+democrats (TF-IDF Score: 62.5059)
+content (TF-IDF Score: 61.0380)
+ingraham (TF-IDF Score: 59.7067)
+access (TF-IDF Score: 59.5371)
+host (TF-IDF Score: 52.9614)
+night (TF-IDF Score: 45.0068)
+sean (TF-IDF Score: 44.2535)
+hannity (TF-IDF Score: 44.2535)
+
+Category: Economic and Market Impact
+Top 10 words:
+stock (TF-IDF Score: 95.4611)
+market (TF-IDF Score: 81.6362)
+stocks (TF-IDF Score: 80.8318)
+tesla (TF-IDF Score: 75.2694)
+bitcoin (TF-IDF Score: 54.9670)
+shares (TF-IDF Score: 53.6718)
+trumps (TF-IDF Score: 46.8860)
+media (TF-IDF Score: 46.3876)
+election (TF-IDF Score: 38.8065)
+company (TF-IDF Score: 37.8779)
+
+Category: Election Coverage & Polling Results
+Top 10 words:
+harris (TF-IDF Score: 154.0700)
+poll (TF-IDF Score: 133.9376)
+kamala (TF-IDF Score: 112.8146)
+vice (TF-IDF Score: 106.7934)
+president (TF-IDF Score: 104.1543)
+race (TF-IDF Score: 92.7090)
+election (TF-IDF Score: 91.1502)
+news (TF-IDF Score: 89.9222)
+states (TF-IDF Score: 88.1707)
+voters (TF-IDF Score: 85.5901)
+
+Category: Legal & Controversy Coverage
+Top 10 words:
+criminal (TF-IDF Score: 120.0459)
+judge (TF-IDF Score: 112.6172)
+court (TF-IDF Score: 107.9411)
+case (TF-IDF Score: 104.2536)
+against (TF-IDF Score: 89.0292)
+supreme (TF-IDF Score: 88.6388)
+election (TF-IDF Score: 83.9304)
+jack (TF-IDF Score: 82.5720)
+counsel (TF-IDF Score: 76.7902)
+federal (TF-IDF Score: 75.8050)
+
+Category: Policy Proposals & Political Stances
+Top 10 words:
+federal (TF-IDF Score: 46.6492)
+care (TF-IDF Score: 43.2927)
+could (TF-IDF Score: 39.7351)
+tax (TF-IDF Score: 39.3365)
+would (TF-IDF Score: 39.2171)
+issues (TF-IDF Score: 36.6447)
+illegal (TF-IDF Score: 35.9814)
+tariffs (TF-IDF Score: 35.5764)
+house (TF-IDF Score: 35.2265)
+abortion (TF-IDF Score: 33.0288)
+
+Category: International Relations & Foreign Policy
+Top 10 words:
+zelenskyy (TF-IDF Score: 50.3864)
+ukraine (TF-IDF Score: 47.3474)
+leaders (TF-IDF Score: 39.9974)
+ukrainian (TF-IDF Score: 39.3365)
+call (TF-IDF Score: 38.8744)
+presidentelect (TF-IDF Score: 36.8848)
+war (TF-IDF Score: 34.3660)
+world (TF-IDF Score: 33.2395)
+russia (TF-IDF Score: 32.3327)
+volodymyr (TF-IDF Score: 32.0641)
+
+Category: Social & Cultural Commentary
+Top 10 words:
+rally (TF-IDF Score: 63.0947)
+garden (TF-IDF Score: 53.5751)
+madison (TF-IDF Score: 52.9219)
+square (TF-IDF Score: 52.9219)
+puerto (TF-IDF Score: 52.5406)
+rico (TF-IDF Score: 41.2860)
+comedian (TF-IDF Score: 40.0235)
+racist (TF-IDF Score: 35.5764)
+social (TF-IDF Score: 34.3545)
+tony (TF-IDF Score: 32.0641)
+
+Category: Candidate Campaign & Strategy
+Top 10 words:
+harris (TF-IDF Score: 96.2937)
+campaign (TF-IDF Score: 83.2944)
+kamala (TF-IDF Score: 77.7167)
+presidentelect (TF-IDF Score: 75.8188)
+closing (TF-IDF Score: 66.1575)
+republican (TF-IDF Score: 63.2980)
+to (TF-IDF Score: 62.6072)
+rep (TF-IDF Score: 60.8949)
+jr (TF-IDF Score: 58.3116)
+lead (TF-IDF Score: 57.3129)
+
+Category: Only name Mention (Other)
+Top 10 words:
+michigan (TF-IDF Score: 30.5190)
+court (TF-IDF Score: 27.8558)
+supreme (TF-IDF Score: 25.8530)
+costumes (TF-IDF Score: 23.3334)
+harris (TF-IDF Score: 22.6573)
+shaken (TF-IDF Score: 21.7115)
+execution (TF-IDF Score: 21.7115)
+kamala (TF-IDF Score: 21.3094)
+baby (TF-IDF Score: 20.5608)
+syndrome (TF-IDF Score: 19.6682)
+
+Category: Candidate 
+Top 10 words:
+evangelical (TF-IDF Score: 21.7115)
+pastor (TF-IDF Score: 10.8558)
+conservative (TF-IDF Score: 8.8941)
+vote (TF-IDF Score: 6.8709)
+character (TF-IDF Score: 5.8333)
+competence (TF-IDF Score: 5.8333)
+habitually (TF-IDF Score: 5.8333)
+commonly (TF-IDF Score: 5.8333)
+circles (TF-IDF Score: 5.8333)
+pastors (TF-IDF Score: 5.8333)
+
