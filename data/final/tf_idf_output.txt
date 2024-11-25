@@ -1,16 +1,3 @@
-Category: Candidate 
-Top 10 words:
-evangelical (TF-IDF Score: 21.7115)
-pastor (TF-IDF Score: 10.8558)
-conservative (TF-IDF Score: 8.8941)
-vote (TF-IDF Score: 6.8709)
-character (TF-IDF Score: 5.8333)
-competence (TF-IDF Score: 5.8333)
-habitually (TF-IDF Score: 5.8333)
-commonly (TF-IDF Score: 5.8333)
-circles (TF-IDF Score: 5.8333)
-pastors (TF-IDF Score: 5.8333)
-
 Category: Candidate Endorsements & Influencers
 Top 10 words:
 elon (TF-IDF Score: 145.3015)
@@ -149,10 +136,10 @@ kamala (TF-IDF Score: 77.7167)
 presidentelect (TF-IDF Score: 75.8188)
 closing (TF-IDF Score: 66.1575)
 republican (TF-IDF Score: 63.2980)
-to (TF-IDF Score: 62.6072)
 rep (TF-IDF Score: 60.8949)
 jr (TF-IDF Score: 58.3116)
 lead (TF-IDF Score: 57.3129)
+announced (TF-IDF Score: 54.5418)
 
 Category: Only name Mention (Other)
 Top 10 words:

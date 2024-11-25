@@ -1,7 +1,7 @@
 Sentiment analysis on Donald Trump(src: Newsapi.org)
 Typology for coverage:
     
-    1-Candidate Campaign & Strategy             
+1-Candidate Campaign & Strategy             
 2-Election Coverage & Polling Results          
 3-Miscellaneous Campaign Events & Anecdotes    
 4-Candidate Endorsements & Influencers         
